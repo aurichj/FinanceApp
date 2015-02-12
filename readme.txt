@@ -1,0 +1,1 @@
+The fgui folder is to be opened in Android Studio 1.0.1+ as a standalone project.
